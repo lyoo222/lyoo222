@@ -2,3 +2,4 @@
     game:GetService("Workspace").Heists["Jewelry Store"].Items.Spotlight:Destroy()
     game:GetService("Workspace").Heists["Jewelry Store"].Items.Laser:Destroy()
     game:GetService("Workspace").Heists["Jewelry Store"].Items.Flamethrowers:Destroy()
+    game:GetService("Workspace").Heists["Jewelry Store"].Items.Lava:Destroy()
