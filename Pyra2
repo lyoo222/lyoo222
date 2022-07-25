@@ -1,1 +1,4 @@
-
+game:GetService("Workspace").Heists.Pyramid.Level2.Lava:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.PressurePlates:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.Flamethrowers:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.RoofTrap:Destroy()
