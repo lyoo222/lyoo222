@@ -1,5 +1,9 @@
-game:GetService("Workspace").Heists.Pyramid.Level1.Lava
-game:GetService("Workspace").Heists.Pyramid.Level1.Balls
-game:GetService("Workspace").Heists.Pyramid.Level1.Flamethrowers
-game:GetService("Workspace").Heists.Pyramid.Level1.SpikeTraps
-game:GetService("Workspace").Heists.Pyramid.Level1.Saws
+game:GetService("Workspace").Heists.Pyramid.Level1.Lava:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level1.Balls:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level1.Flamethrowers:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level1.SpikeTraps:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level1.Saws:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.Lava:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.PressurePlates:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.Flamethrowers:Destroy()
+game:GetService("Workspace").Heists.Pyramid.Level2.RoofTrap:Destroy()
