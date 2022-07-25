@@ -1,0 +1,2 @@
+game:GetService("Workspace").Heists.Club.Level1.Items.Lasers:Destroy()
+game:GetService("Workspace").Heists.Club.Level2.Items.LaserWalls:Destroy()
