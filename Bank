@@ -1,0 +1,6 @@
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.RoomB.VaultLasers:Destroy()
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.RoomB.MovingLasers:Destroy()
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.Builds.SecurityExit.MovingLasers:Destroy()
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.RoomB.Lasers.Main:Destroy()
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.RoomB.GreenLasers:Destroy()
+game:GetService("Workspace").Heists.Bank.Items.Chunk.Mint.Builds.SecurityExit.MovingLasers:Destroy()
