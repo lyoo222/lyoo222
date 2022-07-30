@@ -1,2 +1,0 @@
-game:GetService("Workspace").Heists.Ship.Ship.Turrets.Turret:Destroy()
-game:GetService("Workspace").Heists.Ship.Ship.Turrets.Turret:Destroy()
