@@ -880,7 +880,7 @@ function library:CreateWindow(name, version, icon)
 			function pagebuttons:CreateBox(name, icon, callback)
 				name = name or "Input Text Here..."
 				if icon == "Default" then
-					icon = 10045753138
+					icon = 8942381142
 				else
 					icon = icon
 				end
